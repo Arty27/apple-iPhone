@@ -35,11 +35,9 @@ Whether you're a solo developer or part of a large team, FixHub is the perfect t
 
 ## 👩‍💻 Tech Stack
 
-- **Next.js**: A React framework for building server-side rendering and static web applications.
-- **Auth.js**: Free and open source Authentication for the Web.
-- **Hono**: A lightweight web framework for building server-side applications with TypeScript.
-- **Drizzle ORM**: TypeScript-first ORM for type-safe database access.
-- **React Query**: Data-fetching library for managing server-state in React applications.
+- **Three.js**: A powerful JavaScript library for creating 3D graphics in the browser using WebGL.
+- **GSAP**: A high-performance animation library for building fluid, complex animations in JavaScript..
+- **React**: A declarative, component-based JavaScript library for building interactive user interfaces..
 - **Npm Package**: A fast JavaScript runtime that includes a package manager, task runner, and more.
 
 ## 📖 Sources and external API's
@@ -57,14 +55,13 @@ To get a local copy of this project up and running, follow these steps.
 
 - **Node.js** (v16.x or higher) and **npm** or **yarn**.
 - **Npm** If you prefer using npm for package management and running scripts.
-- **PostgreSQL** (or another supported SQL database).
 
 ## 🛠️ Installation
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/Arty27/apple-iPhone.git
    cd readme-template
    ```
 
