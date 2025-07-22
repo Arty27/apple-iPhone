@@ -73,31 +73,9 @@ To get a local copy of this project up and running, follow these steps.
    npm install
    ```
 
-3. **Set up environment variables:**
 
-   Create a `.env` file in the root directory and add the following variables:
 
-   ```env
-   NEXT_PUBLIC_APP_URL=http://localhost:3000
-
-   #database
-   DATABASE_URL=your_database_url
-   DATABASE_SECRET=your_database_secret
-   DRIZZLE_DATABASE_URL=your_database_url_for_drizzle
-
-   #auth
-   AUTH_SECRET=any_random_secret
-   ```
-
-4. **Run database migrations:**
-
-   Ensure your database is running and then run:
-
-   ```bash
-   npm run drizzle-kit migrate
-   ```
-
-5. **Start the development server:**
+3. **Start the development server:**
 
    ```bash
    npm run dev
