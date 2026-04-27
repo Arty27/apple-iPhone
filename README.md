@@ -1,4 +1,4 @@
-# Apple iPhone 15 Pro — 3D Website Clone
+# Apple iPhone 15 Pro - 3D Website Clone
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org)
